@@ -25,7 +25,7 @@ echo "Hello there !"
 * Pipes |
 * Launch executables when given a relative/absolute path
 * Also search for executables in the PATH
-* Parameter expansion, quotes handling.
+* Parameter expansion, quotes handling
 * Signal handling (ctrl-c, ctrl-d, ctrl-\)
 * Commands history
 
